@@ -11,9 +11,7 @@
 **->Split dataset into training and testing sets for model validation.**
 
 
-<img width="422" height="392" alt="image" src="https://github.com/user-attachments/assets/54560eb9-b55e-48f8-a7e2-442ac2b42423" />  <img width="248" height="296" alt="image" src="https://github.com/user-attachments/assets/877d331a-c476-4ee1-b465-6cab3b420ce4" />
-
-
+<img width="422" height="392" alt="image" src="https://github.com/user-attachments/assets/54560eb9-b55e-48f8-a7e2-442ac2b42423" />  <img width="248" height="296" alt="image" src="https://github.com/user-attachments/assets/9d6e8e2b-ac7c-4324-b6fa-177b05273cf4" />
 
 
 
