@@ -29,7 +29,19 @@ Tech Stack Used:
 
 **->Distribution plots for score and rank analysis.**
 
--**>Accuracy comparison graphs across models.**
+**->Accuracy comparison graphs across models.**
+
+
+ Outcomes of this project:
+
+**1)Achieved high prediction accuracy in recommending suitable engineering branches.**
+
+**2)Developed a user-centric model that can be integrated into a student counseling platform or college admission system.**
+
+**3)Enhanced interpretability using feature importance graphs.**
+
+**Conclusion**
+This project demonstrates the power of data analytics and machine learning in shaping career guidance systems. It showcases end-to-end implementation  from data preprocessing to deployment readiness emphasizing both technical rigor and real world application.
 
 
 
