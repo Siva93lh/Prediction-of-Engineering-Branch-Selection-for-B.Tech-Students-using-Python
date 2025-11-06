@@ -13,13 +13,33 @@
 
 <img width="422" height="392" alt="image" src="https://github.com/user-attachments/assets/54560eb9-b55e-48f8-a7e2-442ac2b42423" />  <img width="422" height="392" alt="image" src="https://github.com/user-attachments/assets/3fa125dd-e52e-4910-99b3-e5a6e7fb205c" />
 
+Tech Stack Used:
 
-🔹 Model Development
+**Language: Python**
 
-Implemented multiple ML algorithms including:
+**Libraries: NumPy, Pandas, Matplotlib**
 
-Logistic Regression
+**Tools: Jupyter Notebook, VS Code**
 
-Random Forest Classifier
+**Version Control: Git & GitHub**
 
-Decision Tree Classifier
+ Visualization & Insights:
+
+**->Correlation heatmaps for understanding the influence of different parameters.**
+
+**->Distribution plots for score and rank analysis.**
+
+-**>Accuracy comparison graphs across models.**
+
+
+
+
+
+
+
+
+
+
+
+
+
